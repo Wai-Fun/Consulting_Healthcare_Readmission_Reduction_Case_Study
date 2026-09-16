@@ -5,19 +5,16 @@ Healthcare_Readmission_Consulting_Case/
 ├── 00_Project_Management/
 │   ├── Project_Charter.pdf
 │   ├── Statement_of_Work.pdf
-│   ├── Project_Plan.pdf
-│   ├── Risk_Register.xlsx
+│   ├── Milestone.pdf
+│   
 │
 ├── 01_Business_Discovery/
-│   ├── Business_Problem.pdf
-│   ├── Business_Objectives.pdf
+│   ├── Business_Problem and Objectives.pdf
 │   ├── Business_Questions.pdf
 │   ├── Data_Requirements.pdf
 │
 ├── 02_Data/
-│   ├── raw/
-│   ├── processed/
-│   ├── data_dictionary/
+│   ├── Source_date.md
 │   └── Data_Inventory_and_Quality_Assessment.pdf
 │
 ├── 03_BigQuery_SQL/
@@ -31,21 +28,18 @@ Healthcare_Readmission_Consulting_Case/
 │
 ├── 04_Python/
 │   ├── 01_Data_Profiling.ipynb
-│   ├── 02_EDA.ipynb
 │   ├── 03_Statistical_Analysis.ipynb
-│   ├── 04_Feature_Engineering.ipynb
 │   ├── 05_Predictive_Modeling.ipynb
-│   └── utils/
+
 │
 ├── 05_Tableau/
-│   ├── Dashboard.twb
-│   ├── Dashboard.pdf
-│   └── Dashboard_Screenshots/
+│   ├── Dashboard 1.twb
+│   ├── Dashboard 2.pdf
+│   └── Dashboard Links
 │
 ├── 06_Reports/
 │   ├── Executive_Summary.pdf
 │   ├── Final_Consulting_Report.pdf
-│   └── Executive_Recommendations.pdf
-│
+│ 
 └── 07_Presentation/
     └── Executive_Presentation.pdf
