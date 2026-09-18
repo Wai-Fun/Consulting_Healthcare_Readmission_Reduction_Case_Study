@@ -2,40 +2,41 @@ Healthcare_Readmission_Consulting_Case/
 │
 ├── README.md
 │
-├── 00_Project_Management/
+├── 01_Project_Management/
 │   ├── Project_Charter.pdf
 │   ├── Statement_of_Work.pdf
 │   ├── Milestone.pdf
 │   
 │
-├── 01_Business_Discovery/
+├── 02_Business_Discovery/
 │   ├── Business_Problem and Objectives.pdf
 │   ├── Business_Questions.pdf
 │   ├── Data_Requirements.pdf
 │
-├── 02_Data/
-│   ├── Source_date.md
-│   └── Data_Inventory_and_Quality_Assessment.pdf
+├── 03_ Source_date.m 
+|
+├── 04_Data/
+││   └── Data_Inventory_and_Quality_Assessment.pdf
 │
-├── 03_BigQuery_SQL/
+├── 05_BigQuery_SQL/
 │   ├── 01_Create_Dataset.sql
-│   ├── 02_Create_Raw_Tables.sql
-│   ├── 03_Data_Validation.sql
-│   ├── 04_ETL_Staging.sql
+│   ├── 02_ETL_staging.sql
+│   ├── 03_EDA_Obj1
+│   ├── 04_feature_engineering
 │   ├── 05_ETL_Analytics.sql
-│   ├── 06_Create_Views.sql
-│   └── 07_KPI_Queries.sql
+│   ├── 06_dataset_Modeling
+│   └── 07_dataset_Tableau
 │
-├── 04_Python/
+├── 06_Python/
 │   ├── 01_Data_Profiling.ipynb
-│   ├── 03_Statistical_Analysis.ipynb
-│   ├── 05_Predictive_Modeling.ipynb
+│   ├── 02_Statistical_Analysis.ipynb
+│   ├── 03_Predictive_Modeling.ipynb
 
 │
-├── 05_Tableau/
+├── 07_Tableau/
 │   ├── Dashboard 1.twb
 │   ├── Dashboard 2.pdf
-│   └── Dashboard Links
+│   └── Dashboard Links.md
 │
 ├── 06_Reports/
 │   ├── Executive_Summary.pdf
