@@ -1,4 +1,1 @@
-
-Business Problem
-
-A regional hospital system is experiencing elevated 30-day readmission rates, leading to poorer patient outcomes and potential CMS reimbursement penalties. This case study simulates a healthcare analytics consulting engagement to identify readmission drivers and recommend targeted interventions.
+End-to-end healthcare analytics consulting project using BigQuery SQL, Python, predictive modeling, Tableau, and executive reporting to identify factors associated with 30-day hospital readmissions and opportunities for intervention.
